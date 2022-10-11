@@ -1,0 +1,5 @@
+i love you, pos
+i hate yoy,neg
+i kill you,neg
+i love you to kill you,neg
+i admire you, pos
